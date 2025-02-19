@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "marks": 87
+  },
+  {
+    "name": "Sophia Johnson",
+    "email": "sophia.johnson@example.com",
+    "marks": 88
+  },
+  {
+    "name": "James Lee",
+    "email": "james.lee@example.com",
+    "marks": 79
+  },
+  {
+    "name": "Isabella Martinez",
+    "email": "isabella.martinez@example.com",
+    "marks": 93
+  }
+]
